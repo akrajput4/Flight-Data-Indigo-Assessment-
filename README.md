@@ -42,6 +42,7 @@ This flight application offers a robust platform for flight management and searc
 ### UI 
 
 ![image](https://github.com/user-attachments/assets/1dcbc0a5-e55f-482c-8d91-36a54f2f22e0)
+![image](https://github.com/user-attachments/assets/eb957b89-2cd8-407b-bce2-fa5057083789)
 ![image](https://github.com/user-attachments/assets/789dd2cf-7e26-430a-8025-3a5fa64d4dc3)
 
 
