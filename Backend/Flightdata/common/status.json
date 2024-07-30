@@ -1,0 +1,34 @@
+[
+  {
+    "model": "UserManagement.Status",
+    "pk": 0,
+    "fields": {
+      "value": "Created",
+      "description": "Created"
+    }
+  },
+  {
+    "model": "UserManagement.Status",
+    "pk": 1,
+    "fields": {
+      "value": "Active",
+      "description": "Active"
+    }
+  },
+  {
+    "model": "UserManagement.Status",
+    "pk": 2,
+    "fields": {
+      "value": "Deleted",
+      "description": "Deleted"
+    }
+  },
+  {
+    "model": "UserManagement.Status",
+    "pk": 3,
+    "fields": {
+      "value": "Trashed",
+      "description": "Trashed"
+    }
+  }
+]

@@ -1,0 +1,37 @@
+# requirements_description.txt
+
+asgiref==3.8.1
+# ASGI reference implementation for asynchronous server gateways. It is required by Django to handle asynchronous views and applications.
+
+Django==5.0.7
+# Django is a high-level Python web framework that enables rapid development of secure and maintainable websites. It includes an ORM, admin interface, and built-in tools for common web development tasks.
+
+djangorestframework==3.15.2
+# Django REST Framework (DRF) is a powerful and flexible toolkit for building Web APIs in Django. It simplifies the creation of RESTful APIs and provides tools for serialization, authentication, and view management.
+
+djangorestframework-simplejwt==5.3.1
+# Provides JSON Web Token (JWT) authentication for Django REST Framework. It allows for secure and stateless authentication using JWT tokens.
+
+drf-extensions==0.7.1
+# Extends the functionality of Django REST Framework with additional features like advanced pagination, serializers, and viewsets that are not available in the core DRF.
+
+postgres==4.0
+# Provides PostgreSQL database adapter for Python. It allows Django to interact with PostgreSQL databases. (Note: It’s usually better to use `psycopg2-binary` for PostgreSQL instead of `postgres`.)
+
+psycopg2-binary==2.9.9
+# PostgreSQL adapter for Python. It enables Django to communicate with PostgreSQL databases. It includes binary packages, so it does not require a separate compilation step.
+
+psycopg2-pool==1.2
+# Connection pooling for `psycopg2`. It helps manage and reuse database connections, improving performance and scalability by reducing the overhead of establishing new connections.
+
+PyJWT==2.8.0
+# Python library for encoding and decoding JSON Web Tokens (JWT). Used for creating and verifying JWTs for authentication purposes in Django applications.
+
+rest-framework-simplejwt==0.0.2
+# Provides JWT authentication support for Django REST Framework. (Note: This appears to be a duplicate of `djangorestframework-simplejwt`; you may not need both.)
+
+sqlparse==0.5.1
+# SQL parsing library for Python. It is used by Django to parse and format SQL queries.
+
+tzdata==2024.1
+# Provides timezone data for Python. It is used to handle timezone-related operations in Django, ensuring accurate time and date handling across different regions.
