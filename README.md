@@ -37,3 +37,11 @@ Our flight application is a comprehensive platform designed to manage and search
 ### Summary
 
 This flight application offers a robust platform for flight management and search functionalities. While only administrators can add flights, users benefit from secure, token-based access and efficient notification of flight changes through asynchronous tasks. The application is designed to provide a smooth and secure experience for both administrators and users, with scheduled notifications and comprehensive logging to ensure reliable operation.
+
+
+### UI 
+
+![image](https://github.com/user-attachments/assets/1dcbc0a5-e55f-482c-8d91-36a54f2f22e0)
+![image](https://github.com/user-attachments/assets/789dd2cf-7e26-430a-8025-3a5fa64d4dc3)
+
+
