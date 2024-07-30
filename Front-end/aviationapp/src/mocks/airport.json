@@ -1,0 +1,97 @@
+[
+  {
+    "id": "aec977c3-4129-4271-b661-e84c415e6cd4",
+    "flight_id": "FL123",
+    "airline": "Air India",
+    "departure_city": "New Delhi",
+    "arrival_city": "Mumbai",
+    "departure_schedule": "2024-08-01T10:30:00Z",
+    "arrival_schedule": "2024-08-01T12:30:00Z",
+    "flight_duration": "2 hours",
+    "seats_available": {
+      "economy": 150,
+      "business": 30,
+      "first_class": 10
+    },
+    "created_at": "2024-07-30T16:01:24.748435Z",
+    "updated_at": "2024-07-30T16:01:24.748435Z",
+    "deleted_at": null,
+    "status": 0
+  },
+  {
+    "id": "e13e6e8a-9f35-4387-9a88-5c6a8c3e4d5a",
+    "flight_id": "FL456",
+    "airline": "Jet Airways",
+    "departure_city": "Mumbai",
+    "arrival_city": "Bangalore",
+    "departure_schedule": "2024-08-02T14:00:00Z",
+    "arrival_schedule": "2024-08-02T16:00:00Z",
+    "flight_duration": "2 hours",
+    "seats_available": {
+      "economy": 120,
+      "business": 25,
+      "first_class": 8
+    },
+    "created_at": "2024-07-30T16:05:24.748435Z",
+    "updated_at": "2024-07-30T16:05:24.748435Z",
+    "deleted_at": null,
+    "status": 0
+  },
+  {
+    "id": "e13e6e8a-9f35-4387-9a88-5c6a8c3e4d5a",
+    "flight_id": "FL456",
+    "airline": "Jet Airways",
+    "departure_city": "Mumbai",
+    "arrival_city": "Bangalore",
+    "departure_schedule": "2024-08-02T14:00:00Z",
+    "arrival_schedule": "2024-08-02T16:00:00Z",
+    "flight_duration": "2 hours",
+    "seats_available": {
+      "economy": 120,
+      "business": 25,
+      "first_class": 8
+    },
+    "created_at": "2024-07-30T16:05:24.748435Z",
+    "updated_at": "2024-07-30T16:05:24.748435Z",
+    "deleted_at": null,
+    "status": 0
+  },
+  {
+    "id": "e13e6e8a-9f35-4387-9a88-5c6a8c3e4d5a",
+    "flight_id": "FL456",
+    "airline": "Jet Airways",
+    "departure_city": "Mumbai",
+    "arrival_city": "Bangalore",
+    "departure_schedule": "2024-08-02T14:00:00Z",
+    "arrival_schedule": "2024-08-02T16:00:00Z",
+    "flight_duration": "2 hours",
+    "seats_available": {
+      "economy": 120,
+      "business": 25,
+      "first_class": 8
+    },
+    "created_at": "2024-07-30T16:05:24.748435Z",
+    "updated_at": "2024-07-30T16:05:24.748435Z",
+    "deleted_at": null,
+    "status": 0
+  },
+  {
+    "id": "e13e6e8a-9f35-4387-9a88-5c6a8c3e4d5a",
+    "flight_id": "FL456",
+    "airline": "Jet Airways",
+    "departure_city": "Mumbai",
+    "arrival_city": "Bangalore",
+    "departure_schedule": "2024-08-02T14:00:00Z",
+    "arrival_schedule": "2024-08-02T16:00:00Z",
+    "flight_duration": "2 hours",
+    "seats_available": {
+      "economy": 120,
+      "business": 25,
+      "first_class": 8
+    },
+    "created_at": "2024-07-30T16:05:24.748435Z",
+    "updated_at": "2024-07-30T16:05:24.748435Z",
+    "deleted_at": null,
+    "status": 0
+  }
+]
